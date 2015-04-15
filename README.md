@@ -10,6 +10,7 @@ sudo [password] userName
 
 2. Monitor all Processes
 ps -aux
+The detail explanation in this site[http://blog.csdn.net/hanner_cheung/article/details/6081440]
 
 
 2. Windows Command
