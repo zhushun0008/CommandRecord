@@ -8,11 +8,9 @@ We could create userName/password within [].
 sudo adduser [userName]
 sudo [password] userName
 ```
-
 2. Monitor all Processes
 ps -aux
 The detail explanation in this site[http://blog.csdn.net/hanner_cheung/article/details/6081440]
-
 3. Re-Directing
      * 标准输入   (stdin) ：代码为 0 ，***使用 < 或 <<*** ； /dev/stdin -> /proc/self/fd/0   0代表：/dev/stdin 
      * 标准输出   (stdout)：代码为 1 ，***使用 > 或 >>*** ； /dev/stdout -> /proc/self/fd/1  1代表：/dev/stdout
