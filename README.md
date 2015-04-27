@@ -21,7 +21,11 @@ The detail explanation in this site[http://blog.csdn.net/hanner_cheung/article/d
      * Reference:
           * [linux shell数据重定向（输入重定向与输出重定向）详细分析](http://www.cnblogs.com/chengmo/archive/2010/10/20/1855805.html)
 
-4. [在ssh、telnet断开之后继续执行程序](http://blog.chinaunix.net/uid-2623904-id-76976.html)
+4. nohup help to run the process in the back 
+    * [在ssh、telnet断开之后继续执行程序](http://blog.chinaunix.net/uid-2623904-id-76976.html)
+    * ps -A 
+        * All process will be listed espeically for them in the back
+        * Then kill the nohup process
 
 
 2. Windows Command
